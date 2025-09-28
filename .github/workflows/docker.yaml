@@ -33,4 +33,4 @@ jobs:
                   context: .
                   file: ./Dockerfile
                   push: true
-                  tags: ghcr.io/${{ github.repository_owner }}/dawarich-companion:latest
+                  tags: ghcr.io/jaumoso/dawarich-companion:latest
